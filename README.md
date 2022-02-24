@@ -1,1 +1,1 @@
-
+This is a project to create a web application to advertise and manage the Beer Olympics, an annual event of first responders accross the Twin Cities metro area to get together and unwind.  The organizers have big plans to increase this event and get sponsorship and raise funds for charity.
